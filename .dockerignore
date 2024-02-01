@@ -1,3 +1,6 @@
+Dockerfile
 .*
+dist
 build
 node_modules
+*.md
